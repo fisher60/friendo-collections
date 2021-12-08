@@ -1,2 +1,2 @@
 # friendo-collections
-Standalone bot meant to integrate with Friendo Bot and the accompanying Friendo website to provide for trading card style games.
+A simple, centralized trading card service utilizing blockchains to create collectibles and for proof of ownership.
